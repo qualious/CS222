@@ -1,8 +1,0 @@
---- COMPILATION ---
-src/sudoku/SudokuBoard.java:184: error: not a statement
-            candidateValues
-            ^
-src/sudoku/SudokuBoard.java:184: error: ';' expected
-            candidateValues
-                           ^
-2 errors
