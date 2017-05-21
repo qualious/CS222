@@ -1,0 +1,56 @@
+{
+  "relations": [
+    {
+      "parent": "Set",
+      "child": "HashSet"
+    },
+    {
+      "parent": "SortedSet",
+      "child": "MagicalSet"
+    },
+    {
+      "parent": "Set",
+      "child": "SortedSet"
+    },
+    {
+      "parent": "Object",
+      "child": "String"
+    },
+    {
+      "parent": "Collection",
+      "child": "Set"
+    },
+    {
+      "parent": "Map",
+      "child": "HashMap"
+    },
+    {
+      "parent": "Collection",
+      "child": "Map"
+    },
+    {
+      "parent": "Object",
+      "child": "Collection"
+    },
+    {
+      "parent": "List",
+      "child": "ArrayList"
+    },
+    {
+      "parent": "List",
+      "child": "LinkedList"
+    },
+    {
+      "parent": "List",
+      "child": "DoublyLinkedList"
+    },
+    {
+      "parent": "Collection",
+      "child": "List"
+    },
+    {
+      "parent": "List",
+      "child": "CircularList"
+    }
+  ]
+}

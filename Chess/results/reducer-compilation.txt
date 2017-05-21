@@ -1,0 +1,11 @@
+--- COMPILATION ---
+warning: unknown enum constant Usage.Stable
+  reason: class file for org.junit.platform.commons.meta.API$Usage not found
+warning: unknown enum constant Usage.Maintained
+warning: unknown enum constant Usage.Experimental
+warning: unknown enum constant Usage.Experimental
+warning: unknown enum constant Usage.Experimental
+warning: unknown enum constant Usage.Experimental
+warning: unknown enum constant Usage.Maintained
+warning: unknown enum constant Usage.Stable
+8 warnings

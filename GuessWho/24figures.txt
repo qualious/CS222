@@ -1,0 +1,24 @@
+TYQ, F, 10, brown eyes, not bald, no beard, has hat, has glasses
+FKZ, F, 97, brown eyes, not bald, no beard, has hat, no glasses
+KWI, M, 10, brown eyes, not bald, has beard, no hat, has glasses
+RPQ, M, 10, blue eyes, not bald, has beard, has hat, has glasses
+LOI, M, 10, green eyes, not bald, no beard, has hat, no glasses
+ITP, M, 10, brown eyes, bald, has beard, no hat, has glasses
+AMJ, M, 10, brown eyes, not bald, no beard, has hat, has glasses
+BGD, F, 92, green eyes, not bald, no beard, has hat, has glasses
+UWD, F, 10, green eyes, not bald, no beard, has hat, has glasses
+SCP, M, 10, green eyes, not bald, no beard, no hat, has glasses
+XDI, M, 10, blue eyes, not bald, no beard, no hat, no glasses
+GIJ, M, 73, blue eyes, not bald, no beard, has hat, has glasses
+QTT, F, 95, brown eyes, not bald, no beard, has hat, no glasses
+TAE, F, 10, black eyes, not bald, no beard, has hat, no glasses
+MNK, F, 10, blue eyes, bald, no beard, has hat, has glasses
+BGR, M, 89, brown eyes, not bald, has beard, no hat, no glasses
+OJQ, F, 10, brown eyes, not bald, has beard, no hat, no glasses
+IET, F, 10, brown eyes, not bald, no beard, has hat, no glasses
+LAV, F, 10, green eyes, not bald, no beard, no hat, has glasses
+QVN, F, 10, green eyes, not bald, no beard, no hat, no glasses
+CVD, M, 92, brown eyes, not bald, no beard, has hat, has glasses
+IDI, F, 10, green eyes, not bald, has beard, no hat, has glasses
+BSR, F, 10, black eyes, not bald, has beard, no hat, no glasses
+UOH, F, 83, green eyes, bald, no beard, no hat, no glasses

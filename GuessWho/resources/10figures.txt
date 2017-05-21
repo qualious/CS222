@@ -1,0 +1,10 @@
+GGQ, M, 51, black eyes, not bald, no beard, no hat, no glasses
+YWF, F, 23, black eyes, not bald, no beard, no hat, has glasses
+DVX, M, 48, green eyes, not bald, no beard, has hat, has glasses
+VYL, M, 41, green eyes, bald, no beard, no hat, no glasses
+RJJ, F, 23, blue eyes, not bald, no beard, no hat, no glasses
+UZC, F, 45, brown eyes, bald, no beard, has hat, no glasses
+UOE, M, 29, brown eyes, not bald, no beard, no hat, no glasses
+HUW, M, 27, brown eyes, bald, no beard, has hat, no glasses
+MXU, F, 21, brown eyes, not bald, has beard, no hat, no glasses
+TET, F, 56, brown eyes, not bald, has beard, has hat, no glasses

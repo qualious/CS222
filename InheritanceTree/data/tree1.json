@@ -1,0 +1,20 @@
+{
+  "relations": [
+    {
+      "parent": "A",
+      "child": "B"
+    },
+    {
+      "parent": "A",
+      "child": "C"
+    },
+    {
+      "parent": "A",
+      "child": "D"
+    },
+    {
+      "parent": "D",
+      "child": "E"
+    }
+  ]
+}
