@@ -81,13 +81,3 @@ B to A.
   does a good job of laying out the steps to perform it.                                                                
   Think about how you can handle marking nodes as visited.
   It is up to you to determine how to do this.
-
-## Grading
-
-* Cleanness of Part I: 15%
-* Cleanness of Part II: 15%
-* Cleanness of Part III: 15%
-* Correctness of Part I: 20%
-* Correctness of Part II: 15%
-* Correctness of Part III: 20%
-

@@ -57,15 +57,3 @@ A visualization of these square are as follows:
 ![](data/sample-map-marked.png)
 
 Devise and implement an algorithm to find these squares.
-
-### Grading
-
-* Grading will be done according to your implementation
-of the `Map` class. 
-* You should **NOT** modify the `Square` class.
-* `Main` is provided just for your convenience.
-It will be simply ignored during grading. Do NOT spend time making it clean.
-
-Weights:
-* 60% for functionality and correctness.
-* 40% for cleanness.
